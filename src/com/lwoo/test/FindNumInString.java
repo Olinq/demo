@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 /**
  * 从字符串中提取数字
  * @author Lwoo
- *
+ *test idea
  */
 public class FindNumInString {
 
