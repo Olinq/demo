@@ -15,7 +15,6 @@ public class FindNumInString {
 		System.out.println(find(str));
 		System.out.println(find2(str));
 		System.out.println(find3(str));
-		
 	}
 	public static String find(String str){
 		char[] c=str.toCharArray();
