@@ -1,4 +1,4 @@
-package com.lwoo.test.proxy;
+package com.lwoo.test.staticproxy;
 
 /**
  *创建服务类接口
