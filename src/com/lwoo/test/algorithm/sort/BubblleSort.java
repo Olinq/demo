@@ -1,4 +1,4 @@
-package com.lwoo.test.algorithm;
+package com.lwoo.test.algorithm.sort;
 
 /**
  * 冒泡排序
