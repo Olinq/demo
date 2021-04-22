@@ -14,6 +14,17 @@ public class QuickSort {
         System.out.println(Arrays.toString(sort));
     }
 
+    /**
+     * 1取一个基数值
+     * 2从右至左，比较得到比这个基数值小的值索引，替换
+     * 3从左至右，比较得到比这个基数值da的值索引，替换
+     * 4得到基数值位置，基数值左边都是比它小，右边都是比它大的列表
+     * 5对左半部分继续执行2、3、4
+     * 6对右半部分继续执行2、3、4
+     * @param arr
+     * @param low
+     * @param high
+     */
     public static void quickSort(int[] arr, int low, int high) {
         int start = low;
         int end = high;
