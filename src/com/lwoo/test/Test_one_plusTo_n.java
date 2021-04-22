@@ -22,6 +22,6 @@ public class Test_one_plusTo_n {
 	public static void main(String[] args) {
 		System.out.println(sum(100));
 		System.out.println(sum1(100));
-		System.out.println(3-2.6==0.4);
+		System.out.println(3.0-2.6==0.4);
 	}
 }
